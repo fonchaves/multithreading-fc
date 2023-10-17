@@ -1,0 +1,24 @@
+{
+  "viacep": {
+    "cep": "88075-010",
+    "logradouro": "Rua Quatorze de Julho",
+    "complemento": "",
+    "bairro": "Estreito",
+    "localidade": "Florianópolis",
+    "uf": "SC",
+    "ibge": "4205407",
+    "gia": "",
+    "ddd": "48",
+    "siafi": "8105"
+},
+  "apicep": {
+    "code": "88075-010",
+    "state": "SC",
+    "city": "Florianópolis",
+    "district": "Estreito",
+    "address": "Rua Quatorze de Julho",
+    "status": 200,
+    "ok": true,
+    "statusText": "ok"
+}
+}
